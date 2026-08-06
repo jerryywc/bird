@@ -1,0 +1,78 @@
+---
+type: species
+id: brahminy-kite
+common_name: Brahminy Kite
+scientific_name: Haliastur indus
+family: Accipitridae
+order: Accipitriformes
+iucn_status: Least Concern
+malaysia_status: Resident
+aliases:
+  - BK
+  - Red-backed Sea Eagle
+life_list: true
+target: false
+wishlist: false
+first_seen: 2026-08-09
+best_photo: "📖 Field Journal/2026/2026-08-09 Kuala Selangor Eagle Feeding/BK_001.jpg"
+tags:
+  - species
+  - raptor
+created: 2026-08-09
+updated: 2026-08-09
+---
+
+# Brahminy Kite
+
+*Haliastur indus*
+
+## Personal summary
+
+The acrobat of the feeding — chestnut body, white head/breast, constantly jostling White-bellied Sea Eagles for fish. Smaller and more manoeuvrable; often the more photogenic subject when light is harsh.
+
+## Identification tips (personal)
+
+- Adult: white head/breast + chestnut body — clean two-tone
+- Immature: browner, streakier; easy to confuse with other kites at distance
+
+## Behaviour I've seen
+
+- Dives aggressively on tossed fish
+- Mid-air tussles and food piracy
+- Roosts on nearby poles and mangroves
+
+## Best conditions / approach
+
+- Track one bird through a dive rather than spraying the flock
+- Watch for wing-spread catch moments just above the water
+
+## Trip log
+
+```dataview
+TABLE WITHOUT ID
+  link(file.path, title) AS Trip,
+  date AS Date,
+  locations AS Locations,
+  rating AS Rating
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date DESC
+```
+
+## Sighting count
+
+```dataview
+TABLE WITHOUT ID
+  length(rows) AS "Trips with this species"
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+GROUP BY true
+```
+
+## Portfolio
+
+```dataview
+LIST
+FROM "📸 Portfolio"
+WHERE type = "portfolio" AND species = this.common_name
+```

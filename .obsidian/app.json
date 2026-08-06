@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "⚙️ Assets/Misc",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "🐦 Species",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "SETTINGS.md"
+  ]
+}
