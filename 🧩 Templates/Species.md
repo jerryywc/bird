@@ -11,7 +11,6 @@ aliases: []
 life_list: false
 target: false
 wishlist: false
-first_seen: 
 best_photo: ""
 tags:
   - species
@@ -24,6 +23,41 @@ updated: {{date}}
 *`= this.scientific_name`*
 
 > Fill `common_name` to match this note’s title exactly (join key for trips).
+
+## First seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date ASC
+LIMIT 1
+```
+
+## Last seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date DESC
+LIMIT 1
+```
+
+## Best photo
+
+```dataviewjs
+const photo = dv.current().best_photo;
+if (photo) {
+  dv.paragraph(`![[${photo}|400]]`);
+} else {
+  dv.paragraph("*No best photo set yet.*");
+}
+```
 
 ## Personal summary
 

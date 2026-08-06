@@ -54,5 +54,4 @@ SORT date DESC
 
 ## Curation notes
 
-- Why these frames made the cut:
 - Gaps / shots still wanted:

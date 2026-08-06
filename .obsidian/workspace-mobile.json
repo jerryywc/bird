@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "08174b194f51ed01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a9018a18d10e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐦 Species/Blue-tailed Bee Eater.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blue-tailed Bee Eater"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdaf505a09297965",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eac7a396d8b32c6c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3b5e59155a23bd19",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ac01f3042ece504f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1009bd728e84dba5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "bf93a8dec493a862",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd6b546efbcdb116",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd9a5d3073d8cdc8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5d8371b61355a73c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ae4ece7fbe8c0904",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "360e7d049582d4ec",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "20a9018a18d10e81",
+  "lastOpenFiles": [
+    "📋 Lists/Life List.md",
+    "🏠 Home.md",
+    "📸 Portfolio/Blue-tailed Bee Eater.md",
+    "🐦 Species/Black-naped Oriole.md",
+    "🐦 Species/Blue-tailed Bee Eater.md",
+    "📖 Field Journal/2020/2020-10-03 Bukit Rimau/Journal.md",
+    "📍 Locations/Bukit Rimau.md",
+    "📍 Locations/Overview.md",
+    "📸 Portfolio/B.md",
+    "📸 Portfolio/Portfolio.md",
+    "🐦 Species/Overview.md",
+    "📸 Portfolio/Lesser Adjutant.md",
+    "📖 Field Journal/2020/2020-10-03 Bukit Rimau/DSC_3081.jpg",
+    "🐦 Species/Brahminy Kite.md",
+    "🐦 Species/Lesser Adjutant.md",
+    "📍 Locations/Pantai Jeram.md",
+    "📖 Field Journal/2023/2023-02-18 Kota Kemuning Wetland/Journal.md",
+    "🐦 Species/Asian Openbill.md",
+    "📍 Locations/KSNP.md",
+    "📖 Field Journal/2026/2026-08-09 Kuala Selangor Eagle Feeding/Journal.md",
+    "📖 Field Journal/2026/2026-08-16 KSNP/Journal.md",
+    "🧩 Templates/Trip.md",
+    "README.md",
+    "📸 Portfolio/White-bellied Sea Eagle.md",
+    "🐦 Species/White-bellied Sea Eagle.md",
+    "🧩 Templates/Species.md",
+    "🧩 Templates/Home.md",
+    "📖 Field Journal/2023/2023-02-18 Kota Kemuning Wetland/DSC00668.jpg",
+    "📍 Locations",
+    "🐦 Species",
+    "📸 Portfolio",
+    "🧩 Templates",
+    "⚙️ Assets/Icons",
+    "⚙️ Assets/Misc",
+    "⚙️ Assets/Maps",
+    "⚙️ Assets",
+    "📖 Field Journal/2020/2020-10-03 Bukit Rimau",
+    "📖 Field Journal/2026/2026-08-09 Kuala Selangor Eagle Feeding"
+  ]
+}

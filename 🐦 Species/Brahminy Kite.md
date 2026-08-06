@@ -13,18 +13,52 @@ aliases:
 life_list: true
 target: false
 wishlist: false
-first_seen: 2026-08-09
 best_photo: "📖 Field Journal/2026/2026-08-09 Kuala Selangor Eagle Feeding/BK_001.jpg"
 tags:
   - species
   - raptor
-created: 2026-08-09
-updated: 2026-08-09
+created: 2026-08-06
+updated: 2026-08-06
 ---
 
 # Brahminy Kite
 
 *Haliastur indus*
+
+## First seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date ASC
+LIMIT 1
+```
+
+## Last seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date DESC
+LIMIT 1
+```
+
+## Best photo
+
+```dataviewjs
+const photo = dv.current().best_photo;
+if (photo) {
+  dv.paragraph(`![[${photo}|400]]`);
+} else {
+  dv.paragraph("*No best photo set yet.*");
+}
+```
 
 ## Personal summary
 

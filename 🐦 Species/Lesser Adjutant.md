@@ -12,18 +12,52 @@ aliases:
 life_list: true
 target: false
 wishlist: false
-first_seen: 2026-08-16
 best_photo: ""
 tags:
   - species
   - stork
-created: 2026-08-16
-updated: 2026-08-16
+created: 2026-08-06
+updated: 2026-08-06
 ---
 
 # Lesser Adjutant
 
 *Leptoptilos javanicus*
+
+## First seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date ASC
+LIMIT 1
+```
+
+## Last seen
+
+```dataview
+TABLE WITHOUT ID
+  date AS Date,
+  link(file.path, title) AS Trip
+FROM "📖 Field Journal"
+WHERE type = "trip" AND contains(species_observed, this.common_name)
+SORT date DESC
+LIMIT 1
+```
+
+## Best photo
+
+```dataviewjs
+const photo = dv.current().best_photo;
+if (photo) {
+  dv.paragraph(`![[${photo}|400]]`);
+} else {
+  dv.paragraph("*No best photo set yet.*");
+}
+```
 
 ## Personal summary
 
@@ -43,7 +77,6 @@ Tall, dark stork with a bare head — uncommon enough that every sighting feels 
 ## Best conditions / approach
 
 - Low tide mudflats; long lens essential
-- Avoid sudden movement — they flush early
 
 ## Trip log
 
