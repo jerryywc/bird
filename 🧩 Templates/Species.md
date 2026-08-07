@@ -61,9 +61,9 @@ if (photo) {
 
 ## Personal summary
 
-<!-- Your experience — not a field-guide copy -->
+-
 
-## Identification tips (personal)
+## Identification tips
 
 -
 

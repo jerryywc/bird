@@ -68,7 +68,7 @@ if (photo) {
 
 -
 
-## Identification tips (personal)
+## Identification tips
 
 #### Adult:
 

@@ -46,9 +46,9 @@ updated: {{date}}
 
 ## Species observed
 
-| Species | Count | Behaviour / notes | Best frames |
-|---|---|---|---|
-| [[]] | | | |
+| Species                | Count | Behaviour / notes | 
+| ---------------------- | ----- | ----------------- | 
+|                        |       |                   | 
 
 ## Field notes
 
@@ -62,7 +62,9 @@ updated: {{date}}
 
 ## Photos
 
-<!-- Embed exported JPEGs from this folder: ![[WBSE_001.jpg]] -->
+| Filename | Subject |
+|---|---|
+| ![[]] |  |
 
 ## Map / GPS
 

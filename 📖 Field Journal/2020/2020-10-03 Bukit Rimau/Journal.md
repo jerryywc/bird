@@ -17,7 +17,7 @@ conditions: ""
 gear:
   - Nikon D500
   - Nikon AF-P 70-300mm f/4.5-6.3
-rating: 5
+rating: 3
 photos_exported: 1
 has_gpx: false
 cover_image: DSC_3081.jpg
@@ -35,6 +35,8 @@ A morning walk around my house
 
 ## Route & timing
 
+| | |
+|---|---|
 | **Start** |  |
 | **End** |  |
 | **Tide** |  |
@@ -43,9 +45,9 @@ A morning walk around my house
 ## Species observed
 
 
-| Species                | Count | Behaviour / notes | Best frames |
-| ---------------------- | ----- | ----------------- | ----------- |
-| [[Black-naped Oriole]] | 1     | Perched           | DSC_3081    |
+| Species                | Count | Behaviour / notes | 
+| ---------------------- | ----- | ----------------- | 
+| [[Black-naped Oriole]] | 1     |                   | 
 
 
 ## Field notes
@@ -58,7 +60,9 @@ A morning walk around my house
 
 ## Photos
 
-![[DSC_3081.jpg]]
+| Filename       | Subject            |
+| -------------- | ------------------ |
+| ![[DSC_3081.jpg]] | Black-naped Oriole |
 
 ## Map / GPS
 

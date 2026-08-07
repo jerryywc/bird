@@ -61,13 +61,33 @@ if (photo) {
 
 ## Personal summary
 
-Tall, dark stork with a bare head — uncommon enough that every sighting feels like a win. Seen stalking mudflats at KSNP; prefers distance and quiet approach.
+Tall, dark stork with a bare head — uncommon enough that every sighting feels like a win. Seen stalking mudflats at Pantai Jeram; prefers distance and quiet approach.
 
-## Identification tips (personal)
+## Identification tips
 
-- Large stork silhouette; bare yellowish head/neck
-- Dark upperparts; pale belly in good light
-- Flight: slow, deep wingbeats; neck retracted like a heron
+#### Adult:
+
+Head & Neck: Largely bare, scaly head and neck with a yellowish or pale skin tone, sparse hair-like down, and a pale red crown patch.
+
+Massive Bill: Very thick, straight, wedge-shaped horn-colored bill with a straight culmen (ridge).
+
+Upperparts & Wings: Glossy dark slate-black to dark greenish-black back, wings, and tail; clean white belly, vent, and underparts.
+
+No Neck Pouch: Lacks a dangling inflatable neck pouch; has a tight, clean neck profile at rest.
+
+#### vs. Lookalikes:
+
+vs. Greater Adjutant: Greater is noticeably larger with a massive, thicker bill with a curved culmen; possesses a prominent dangling, inflatable gular neck pouch and a pale grey band across the wings (lesser has solid dark wings).
+
+vs. Milky Stork: Milky Stork is predominantly white with black flight feathers, a yellow slightly curved bill, and a bare pink/red facial mask (unlike the all-dark back and bare yellow head of the Lesser Adjutant).
+
+vs. Painted Stork: Painted Stork features heavy black breast bands, pink tail/wing coverts, and a yellow downward-curved bill.
+
+#### Immature:
+
+Duller & Hairy: Head and neck are covered in much thicker brown downy feathers, giving it a scruffier, hairier appearance.
+
+Plumage: Dark upperparts are duller and lack the glossy greenish sheen seen in adults.
 
 ## Behaviour I've seen
 

@@ -62,25 +62,39 @@ if (photo) {
 
 ## Personal summary
 
-Large coastal raptor — my most reliable subject at the Kuala Selangor eagle feeding. Adults show clean white head/belly against grey wings; juveniles are mottled brown and easy to underexpose against bright sky.
+-
 
-## Identification tips (personal)
+## Identification tips
 
-- Adult: white head + belly, grey upperwing — unmistakable at distance once known
-- Juvenile: brown overall; wait for the white to come in over years
-- In flight: broad wings, short wedge-ish tail vs. longer-tailed kites
+#### Adult:
+
+Head & Body: Pristine white head, neck, chest, belly, and underwing coverts; striking contrast with slate-grey upperparts, wings, and mantle.
+
+In Flight (V-shape soar): Holds broad wings in a distinct shallow "V" shape (dihedral) when soaring; underneath shows white front wing halves contrasting sharply with blackish-grey flight feathers and a wedge-shaped tail with a pure white tip.
+
+Bill & Bare Parts: Massive, heavy lead-grey to bluish-horn bill with a dark hook; pale yellow to greyish unfeathered legs with powerful talons.
+
+#### vs. Lookalikes:
+
+vs. Brahminy Kite: Brahminy Kite is much smaller with a rich chestnut/reddish-brown body and mantle (only head and chest are white), and flies on flat wings rather than in a V-dihedral.
+
+vs. Grey-headed Fish Eagle: Grey-headed has a grey head and upper breast, brown body and wings, and a white belly/tail with a broad black terminal tail band.
+
+vs. Osprey: Osprey is smaller with a prominent dark eye-stripe (eyemask), brown upperparts, and a brown breast band, flying with bent "M-shaped" wings.
+
+#### Immature:
+
+Mottled Brown: Take up to 5 years to gain full adult plumage; juvenile is overall warm brown with pale buff streaks on the head and underparts.
+
+Flight Profile: Still shows the broad wings, short wedge tail, and V-shaped soaring posture, but underwings display a pale translucent patch at the base of the primary feathers.
 
 ## Behaviour I've seen
 
-- Circles with Brahminy Kites during feeding boats
-- Stoops for fish tossed from boats; often loses contests to aggressive kites
-- Perches on dead mangroves between passes
+-
 
 ## Best conditions / approach
 
-- Morning sessions at feeding spot — side light on undersides
-- Continuous AF, high shutter (≥1/2000) when birds bank overhead
-- Leave headroom; they fill the frame fast at 500mm
+-
 
 ## Trip log
 

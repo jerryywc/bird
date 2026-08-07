@@ -36,6 +36,8 @@ A quick stroll in Kota Kemuning Wetland in the morning with Sony a6400 and FE 20
 
 ## Route & timing
 
+| | |
+|---|---|
 | **Start** |  |
 | **End** |  |
 | **Tide** |  |
@@ -43,9 +45,9 @@ A quick stroll in Kota Kemuning Wetland in the morning with Sony a6400 and FE 20
 
 ## Species observed
 
-| Species | Count | Behaviour / notes | Best frames |
-|---|---|---|---|
-| [[Blue-tailed Bee Eater]] | 1 | Perched | DSC00668 |
+| Species | Count | Behaviour / notes | 
+|---|---|---|
+| [[Blue-tailed Bee Eater]] | 1 | Perched |
 
 
 ## Field notes
@@ -58,7 +60,9 @@ A quick stroll in Kota Kemuning Wetland in the morning with Sony a6400 and FE 20
 
 ## Photos
 
-![[DSC00668.jpg]]
+| Filename | Subject |
+|---|---|
+| ![[DSC00668.jpg]] | Blue-tailed Bee Eater |
 
 
 ## Map / GPS
